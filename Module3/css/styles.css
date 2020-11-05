@@ -1,0 +1,48 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Verdana";
+  background-color: #ebd4d4;
+}
+
+h2{
+  font-weight: bold;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+p{
+  padding: 10px 20px;
+  line-height: 2rem;
+  color: #fff0f0
+}
+
+.darksection{
+  background-color: #463333;
+  color: #fff0f0;
+  font-weight: bold;
+  font-size: .8rem;
+}
+
+.box{
+    border: 1px solid black;
+    background-color: #835858;
+    margin: 30px;
+}
+
+.navbar-toggler{
+  background-color: #835858;
+}
+
+#menuheading{
+  color: #fff;
+  margin-top: 5px;
+  font-size: 1.5rem;
+}
+
+#navbarNav{
+  background-color: #835858;
+  margin: 7.5px -15px;
+}
