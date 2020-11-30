@@ -1,4 +1,3 @@
-
 body {
   font-size: 16px;
   color: #fff;
@@ -155,7 +154,7 @@ body {
 /* END HOME PAGE */
 
 /* MENU CATEGORIES PAGE */
-.category-tile {
+.category-tile { 
   position: relative;
   border: 2px solid #3F0C1F;
   overflow: hidden;
@@ -202,7 +201,7 @@ body {
 }
 .menu-item-photo {
   position: relative;
-  border: 2px solid #3F0C1F;
+  border: 2px solid #3F0C1F; 
   overflow: hidden;
   padding: 0;
   margin-right: -15px;
@@ -355,7 +354,7 @@ h3.menu-item-title {
     font-size: 6vw;
   }
   /* End Header */
-
+  
   /* Home page */
   #menu-tile, #specials-tile {
     width: 280px;
@@ -371,4 +370,3 @@ h3.menu-item-title {
     width: 100%;
   }
 }
-
